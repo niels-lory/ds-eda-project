@@ -1,3 +1,25 @@
+# Welcome to the exploratory data analysis!
+
+I analyzed house sales data in King County, Seattle, WA for a fictional buyer Erin Robinson.
+Erin Robinson: Buyer - Invest in poor neighborhood, buying & selling, costs back + little profit, socially responsible  
+
+
+In order to install the environment you can use the following commands:
+
+```
+pyenv local 3.9.8
+python -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+
+You will find a structured Jupyter lab file called 'EDA.ipynb' in the main directory of this repository.
+
+
+
+The following was our starting point:
 # ds-project-template
 
 Template for creating ds simple projects
@@ -40,6 +62,13 @@ This repo contains a requirements.txt file with a list of all the packages and d
 brew update
 brew install postgresql
 
+
+
+Welcome to the exploratory data analysis!
+
+I analyzed house sales data in King County, Seattle, WA for a fictional buyer.
+
+
 In order to install the environment you can use the following commands:
 
 ```
@@ -49,3 +78,4 @@ source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
+
