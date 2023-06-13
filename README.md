@@ -12,8 +12,14 @@ brew update
 brew install postgresql
 ```
 
-In order to install the environment you can use the following commands:
+### In order to install the environment you can use the following:
 
+homebrew install for pyenv python environments:
+```
+brew install pyenv
+```
+
+setup the python environment via pyenv
 ```
 pyenv local 3.9.8
 python -m venv .venv
