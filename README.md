@@ -1,4 +1,4 @@
-# Welcome to the exploratory data analysis!
+# Welcome to my exploratory data analysis project :)
 
 I analyzed house sales data in King County, Seattle, WA for a fictional buyer Erin Robinson.
 Erin Robinson: Buyer - Invest in poor neighborhood, buying & selling, costs back + little profit, socially responsible  
